@@ -1,8 +1,8 @@
 # AssertMatches
 
-A convenience function for testing RegExp objects in Deno, this module provides a function to test a if every item in a list of strings is matched by a RegExp. Useful for unit testing and reducing repetition in code.
+A convenience function for testing RegExp objects in Deno. This module provides a function to test if every item in a list of strings is matched by a RegExp. Useful for unit testing and reducing repetition in code.
 
-Usage:
+### Example Usage:
 
 ```typescript
 import { assertMatches } from 'https://deno.land/x/assert_matches/mod.ts'
